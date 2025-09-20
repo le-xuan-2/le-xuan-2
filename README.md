@@ -1,6 +1,6 @@
 <p align="center">
-  hello, i'm [le xuan](https://le-xuan-2.github.io/) ᝰ.ᐟ
-
+  hello, i'm le xuan ᝰ.ᐟ
+  
   computing and law @ smu
   passionate about frontend development and data science and analytics
 
