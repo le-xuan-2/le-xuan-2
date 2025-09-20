@@ -1,5 +1,7 @@
 <div align="center">
-  hello, i'm le xuan ᝰ.ᐟ
+  hello, i'm le xuan ᝰ.ᐟ <br>
+
+  ![divider](./images/bow.png)
   
   computing and law @ smu <br>
   passionate about frontend development and data science and analytics
